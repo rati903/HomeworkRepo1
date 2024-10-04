@@ -1,0 +1,15 @@
+git init
+git status
+git add hello.txt.txt
+git status
+git commit -m "add hello.txt.txt"
+git status
+git log
+git remote add origin https://github.com/rati903/HomeworkRepo1.git
+git branch -M main
+git push -u origin main
+git pull origin main
+git touch commands.txt
+
+
+
